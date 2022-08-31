@@ -1,6 +1,6 @@
 # INDspeech_NEWS_TTS
 
-This is a speech dataset for developing an Indonesian text-to-speech synthesis system. The data was developed by [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/) under the ["Asia speech translation (A-STAR) Consortium" project](https://www.sciencedirect.com/science/article/pii/S0885230811000404).
+This is a speech dataset for developing an Indonesian text-to-speech synthesis system. The data was developed by [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/) under the [Asia speech translation (A-STAR) project](https://www.sciencedirect.com/science/article/pii/S0885230811000404).
 
 ## Text and Speech Resources
 
