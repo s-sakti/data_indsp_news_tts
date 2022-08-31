@@ -1,6 +1,6 @@
 # INDspeech_NEWS_TTS
 
-This is a speech dataset for developing an Indonesian text-to-speech synthesis system. The data was developed by [Advanced Telecommunication Research Institute International (ATR) Japan] (https://www.atr.jp/) under the "Asia speech translation (A-STAR) Consortium" project.
+This is a speech dataset for developing an Indonesian text-to-speech synthesis system. The data was developed by [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/) under the ["Asia speech translation (A-STAR) Consortium" project](https://www.sciencedirect.com/science/article/pii/S0885230811000404).
 
 ## Text and Speech Resources
 
@@ -24,3 +24,7 @@ After that, we recorded the speech by a female Indonesian speaker who spoke stan
 In the original paper, we define training sets of different sizes; sets with a duration of 12 minutes, 30 minutes, 60 minutes, and 120 minutes (See lst/Orig_trainset_{12min, 30min, 60min, 120min}.lst). For the test set, we have 40 sentences for MOS naturalness (See lst/Orig_testset_MOS.lst) and 20 sentences for SUS intelligibility (See lst/Orig_testset_SUS.lst).
 
 Part of this data has been used for [Zero Resource Speech Challenge](https://www.zerospeech.com/) with different training and test set up (See lst/ZRChallenge_trainset.lst and lst/ZRChallenge_trainset.lst).
+
+## License
+
+
