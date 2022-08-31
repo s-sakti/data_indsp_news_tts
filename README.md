@@ -1,10 +1,10 @@
-# INDspeech_NEWS_TTS
+# INDspeech5: INDspeech_NEWS_TTS
 
 This is a speech dataset for developing an Indonesian text-to-speech synthesis system. The data was developed by [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/) under the [Asian speech translation advanced research (A-STAR) project](https://www.sciencedirect.com/science/article/pii/S0885230811000404).
 
 ## Text and Speech Resources
 
-The raw text source is based on Indonesian daily news and travel expression. We then selected phonetically-balanced sentences from the raw text data, which was assumed to cover almost all phonetic contexts used in the Indonesian language. A total of 2,012 sentences are produced using the greedy search algorithm. The table below shows the number of units and coverage rate.
+The raw text source is based on Indonesian daily news and travel expression. We then selected phonetically-balanced sentences from the raw text data, which was assumed to cover almost all phonetic contexts used in the Indonesian language. A total of 2,012 sentences are produced using [the greedy search algorithm](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2003/papers/p15_3145.pdf). The table below shows the number of units and coverage rate.
 
 |       Phone     | # Units | Coverage | 
 | --------------- | ------- |--------- |
