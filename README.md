@@ -21,10 +21,14 @@ After that, we recorded the speech by a female Indonesian speaker who spoke stan
 
 ## Training and Test Dataset
 
-In the original paper, we define training sets of different sizes; sets with a duration of 12 minutes, 30 minutes, 60 minutes, and 120 minutes (See lst/Orig_trainset_{12min, 30min, 60min, 120min}.lst). For the test set, we have 40 sentences for MOS naturalness (See lst/Orig_testset_MOS.lst) and 20 sentences for SUS intelligibility (See lst/Orig_testset_SUS.lst).
+In the original paper, we define training sets of different sizes; sets with a duration of 12 minutes, 30 minutes, 60 minutes, and 120 minutes (see lst/Orig_trainset_{12min, 30min, 60min, 120min}.lst). For the test set, we have 40 sentences for MOS naturalness (see lst/Orig_testset_MOS.lst) and 20 sentences for SUS intelligibility (see lst/Orig_testset_SUS.lst).
 
 Part of this data has been used for [Zero Resource Speech Challenge](https://www.zerospeech.com/) with different training and test set up (See lst/ZRChallenge_trainset.lst and lst/ZRChallenge_trainset.lst).
 
 ## License
 
+# License
 
+This data is licensed under the Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License (see LICENSE_CC-BY-NC-4.0.txt).
+
+You can use the data free for non-commercial purposes, but you have to cite our paper if your work uses our data in your publication. Furthermore, you are not allowed to create a copy of this dataset and share it publicly in your own repository without our permission.
