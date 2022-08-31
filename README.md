@@ -58,7 +58,7 @@ Please cite the following papers:
 ```
 
 ```
-@@article{sakti-s2st-csl-2013,
+@article{sakti-s2st-csl-2013,
     title = "{A-STAR}: Toward Tranlating Asian Spoken Languages",
     author = "Sakti, Sakriani and Paul, Michael and Finch, Andrew and Sakai, Shinsuke and Thang, Tat Vu, and Kimura, Noriyuki 
     and Hori, Chiori and Sumita, Eiichiro and Nakamura, Satoshi and Park, Jun and Wutiwiwatchai, Chai and Xu, Bo and Riza, Hammam 
