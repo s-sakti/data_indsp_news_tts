@@ -34,7 +34,23 @@ You can use the data free for non-commercial purposes, but you have to cite our 
 ## Citation
 
 ```
-git status
-git add
-git commit
+@inproceedings{sakti-tts-cocosda-2008,
+    title = "Development of HMM-based Indonesian Speech Synthesis",
+    author = "Sakti, Sakriani and Maia, Ranniery and Sakai, Shinsuke and Nakamura, Satoshi",
+    booktitle = "Proc. Oriental COCOSDA",
+    year = "2008",
+    pages = "215--220"
+    address = "Kyoto, Japan"
+}
+```
+
+```
+@inproceedings{sakti-tts-malindo-2010,
+    title = "Development of HMM-based Indonesian Speech Synthesis",
+    author = "Sakti, Sakriani and Sakai, Shinsuke and Isotani, Ryosuke and Kawai, Hisashi and Nakamura, Satoshi",
+    booktitle = "Proc. MALINDO",
+    year = "2010",
+    pages = "51--57"
+    address = "Jakarta, Indonesia"
+}
 ```
