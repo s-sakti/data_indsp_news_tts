@@ -1,4 +1,4 @@
-# INDspeech5: INDspeech_NEWS_TTS
+# INDspeech05: INDspeech_NEWS_TTS
 
 This is a speech dataset for developing an Indonesian text-to-speech synthesis system. The data was developed by [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/) under the the Asian speech translation advanced research (A-STAR) project [[Sakti et al., 2013](https://www.sciencedirect.com/science/article/pii/S0885230811000404)]. 
 
@@ -21,7 +21,7 @@ After that, we recorded the speech by a female Indonesian speaker who spoke stan
 
 ## Training and Test Dataset
 
-In the original papers [[Sakti et al., 2008](https://www.jaist.ac.jp/~ssakti/papers/2008_ssakti_OCOCOSDA.pdf), [Sakti et al., 2010](https://www.jaist.ac.jp/~ssakti/papers/2010_ssakti_MALINDO.pdf)], we define training sets of different sizes; sets with a duration of 12 minutes, 30 minutes, 60 minutes, and 120 minutes (see lst/Orig_trainset_{12min, 30min, 60min, 120min}.lst). For the test set, we have 40 sentences for MOS naturalness (see lst/Orig_testset_MOS.lst) and 20 sentences for SUS intelligibility (see lst/Orig_testset_SUS.lst).
+In the original papers [[Sakti et al., 2008](doc/2008_ssakti_OCOCOSDA.pdf), [Sakti et al., 2010](doc/2010_ssakti_MALINDO.pdf)], we define training sets of different sizes; sets with a duration of 12 minutes, 30 minutes, 60 minutes, and 120 minutes (see lst/Orig_trainset_{12min, 30min, 60min, 120min}.lst). For the test set, we have 40 sentences for MOS naturalness (see lst/Orig_testset_MOS.lst) and 20 sentences for SUS intelligibility (see lst/Orig_testset_SUS.lst).
 
 Part of this data has also been used for [Zero Resource Speech Challenge](https://www.zerospeech.com/) [[Dunbar et al. 2019](https://www.isca-speech.org/archive/pdfs/interspeech_2019/dunbar19_interspeech.pdf), [Dunbar et al. 2020](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2743.pdf)] with different training and test set up (see lst/ZRChallenge_trainset.lst and lst/ZRChallenge_trainset.lst).
 
@@ -35,7 +35,7 @@ You can use the data free for non-commercial purposes, but you have to cite our 
 
 Please cite the following papers:
 
-[[Sakti et al., 2008](https://www.jaist.ac.jp/~ssakti/papers/2008_ssakti_OCOCOSDA.pdf)]
+[[Sakti et al., 2008](doc/2008_ssakti_OCOCOSDA.pdf)]
 ```
 @inproceedings{sakti-tts-cocosda-2008,
     title = "Development of HMM-based Indonesian Speech Synthesis",
@@ -47,7 +47,7 @@ Please cite the following papers:
 }
 ```
 
-[[Sakti et al., 2010](https://www.jaist.ac.jp/~ssakti/papers/2010_ssakti_MALINDO.pdf)]
+[[Sakti et al., 2010](doc/2010_ssakti_MALINDO.pdf)]
 ```
 @inproceedings{sakti-tts-malindo-2010,
     title = "Development of HMM-based Indonesian Speech Synthesis",
