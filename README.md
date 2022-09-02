@@ -25,6 +25,20 @@ In the original papers [[Sakti et al., 2008](doc/2008_ssakti_OCOCOSDA.pdf), [Sak
 
 Part of this data has also been used for [Zero Resource Speech Challenge](https://www.zerospeech.com/) [[Dunbar et al. 2019](https://www.isca-speech.org/archive/pdfs/interspeech_2019/dunbar19_interspeech.pdf), [Dunbar et al. 2020](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2743.pdf)] with different training and test set up (see lst/ZRChallenge_trainset.lst and lst/ZRChallenge_trainset.lst).
 
+## Pronunciation Dictionary
+
+Here we also provide the word list, phoneme list, and pronunciation lexicon (see the word.lst, phoneme.lst, and word_phoneme.lex in lst directory).
+
+The format of the pronunciation dictionary is:
+```
+WORD PHN_1 PHN_2 ... PHN_N
+```
+Example:
+```
+ABAD	A B A D 
+ABAIKAN	A B AY K A N 
+```
+
 ## License
 
 This data is licensed under the Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License (see LICENSE_CC-BY-NC-4.0.txt).
