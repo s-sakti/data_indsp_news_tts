@@ -1,6 +1,6 @@
 # INDspeech5: INDspeech_NEWS_TTS
 
-This is a speech dataset for developing an Indonesian text-to-speech synthesis system. The data was developed by [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/) under the [Asian speech translation advanced research (A-STAR) project](https://www.sciencedirect.com/science/article/pii/S0885230811000404).
+This is a speech dataset for developing an Indonesian text-to-speech synthesis system. The data was developed by [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/) under the the Asian speech translation advanced research (A-STAR) project [[Sakti et al., 2013](https://www.sciencedirect.com/science/article/pii/S0885230811000404)]. 
 
 ## Text and Speech Resources
 
@@ -35,6 +35,7 @@ You can use the data free for non-commercial purposes, but you have to cite our 
 
 Please cite the following papers:
 
+[[Sakti et al., 2008](https://www.jaist.ac.jp/~ssakti/papers/2008_ssakti_OCOCOSDA.pdf)]
 ```
 @inproceedings{sakti-tts-cocosda-2008,
     title = "Development of HMM-based Indonesian Speech Synthesis",
@@ -46,6 +47,7 @@ Please cite the following papers:
 }
 ```
 
+[[Sakti et al., 2010](https://www.jaist.ac.jp/~ssakti/papers/2010_ssakti_MALINDO.pdf)]
 ```
 @inproceedings{sakti-tts-malindo-2010,
     title = "Development of HMM-based Indonesian Speech Synthesis",
@@ -57,6 +59,7 @@ Please cite the following papers:
 }
 ```
 
+[[Sakti et al., 2013](https://www.sciencedirect.com/science/article/pii/S0885230811000404)]
 ```
 @article{sakti-s2st-csl-2013,
     title = "{A-STAR}: Toward Tranlating Asian Spoken Languages",
