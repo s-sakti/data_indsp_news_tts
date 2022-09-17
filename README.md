@@ -62,7 +62,7 @@ Please cite the following papers:
 [[Sakti et al., 2010](doc/2010_ssakti_MALINDO.pdf)]
 ```
 @inproceedings{sakti-tts-malindo-2010,
-    title = "Development of HMM-based Indonesian Speech Synthesis",
+    title = "Quality and Intelligibility Assessment of Indonesian HMM-Based Speech Synthesis System",
     author = "Sakti, Sakriani and Sakai, Shinsuke and Isotani, Ryosuke and Kawai, Hisashi and Nakamura, Satoshi",
     booktitle = "Proc. MALINDO",
     year = "2010",
